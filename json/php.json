@@ -1,0 +1,195 @@
+{
+  "label": "PHP",
+  "value": "gemIndonesia",
+  "gameList": [
+    {
+      "label": "黄金帝国",
+      "value": "goldenempireph",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "伽罗圣印2",
+      "value": "fortuneseal2ph",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "kaikai"
+    },
+    {
+      "label": "超级麻将",
+      "value": "supermahjongph",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "panda"
+    },
+    {
+      "label": "伽罗圣印",
+      "value": "fortunesealph",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "kaikai"
+    },
+    {
+      "label": "超级王牌横板普通版",
+      "value": "gemsuperacelite",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "rey"
+    },
+    {
+      "label": "钱来了",
+      "value": "phpmoneycoming",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "lambo"
+    },
+    {
+      "label": "财富蛇",
+      "value": "fortunesnake",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "rey"
+    },
+    {
+      "label": "夜市2",
+      "value": "nightmarket2",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "kaikai"
+    },
+    {
+      "label": "夜市",
+      "value": "nightmarket",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "kaikai"
+    },
+    {
+      "label": "宙斯消除",
+      "value": "zeusfunfast",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "宙斯消除1000",
+      "value": "zeusfunfast1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "星光公主",
+      "value": "starlightprincess",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "星光公主1000",
+      "value": "starlightprincess1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "麻将之路",
+      "value": "mahjongways",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "panda"
+    },
+    {
+      "label": "赏金大对决",
+      "value": "wildbounty",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "jack"
+    },
+    {
+      "label": "甜入心扉",
+      "value": "sweetbonanzafunfast",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "甜入心扉1000",
+      "value": "sweetbonanzafunfast1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "幸运猫",
+      "value": "luckyneko",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "jack"
+    },
+    {
+      "label": "阿兹特可宝藏",
+      "value": "treasuresofaztec",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "panda"
+    },
+    {
+      "label": "糖果冲击1000",
+      "value": "sugarrush1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "糖果冲击",
+      "value": "sugarrush",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "超级王牌竖版豪华版",
+      "value": "superace",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "超级王牌竖版普通版",
+      "value": "superacelite",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "财富连连",
+      "value": "risingfortunes",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "无尽宝藏",
+      "value": "endlesstreasure",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "超级王牌横板普通版",
+      "value": "gemsuperacelite",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "超级王牌横版豪华版",
+      "value": "gemsuperace",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    }
+  ]
+}

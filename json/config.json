@@ -1,0 +1,275 @@
+{
+  "version": "1750219810000",
+  "包类型": [
+    {
+      "label": "本地官网包",
+      "value": "本地官网包"
+    },
+    {
+      "label": "本地生产包",
+      "value": "本地生产包"
+    },
+    {
+      "label": "线上官网包",
+      "value": "线上官网包"
+    },
+    {
+      "label": "线上生产包",
+      "value": "线上生产包"
+    },
+    {
+      "label": "本地测试包",
+      "value": "本地测试包"
+    }
+  ],
+  "服务器名称": [
+    {
+      "label": "内网测试",
+      "value": "LocalNet"
+    },
+    {
+      "label": "James",
+      "value": "James"
+    },
+    {
+      "label": "Tony",
+      "value": "Tony"
+    },
+    {
+      "label": "Cloud",
+      "value": "Cloud"
+    },
+    {
+      "label": "线上服",
+      "value": ""
+    }
+  ],
+  "服务器地址": [
+    {
+      "label": "gem_线上官网包",
+      "value": "https://dist.gemgame.online"
+    },
+    {
+      "label": "gem_线上生产包",
+      "value": "https://dist.gemgame.bet"
+    },
+    {
+      "label": "stg_线上官网包",
+      "value": "https://h5.stg-staging.com"
+    },
+    {
+      "label": "stg_线上生产包",
+      "value": "https://line8b-h5.stg-asian235.com"
+    },
+    {
+      "label": "derplay_线上官网包",
+      "value": "http://h5.derssg.com"
+    },
+    {
+      "label": "gemIndonesia_线上官网包",
+      "value": "https://h5test.derssg.com/uat"
+    },
+    {
+      "label": "gemIndonesia_线上生产包",
+      "value": "https://h5.ppxyz88.com"
+    },
+    {
+      "label": "king_线上官网包",
+      "value": "https://dist.gemgame.fun"
+    },
+    {
+      "label": "king_线上生产包",
+      "value": "https://king.gemgame.bet"
+    },
+    {
+      "label": "queen_线上官网包",
+      "value": "https://dist.gemgame.fun"
+    },
+    {
+      "label": "queen_线上生产包",
+      "value": "https://king.gemgame.bet"
+    },
+    {
+      "label": "lucky_线上官网包",
+      "value": "https://dist.gemgame.fun"
+    },
+    {
+      "label": "lucky_线上生产包",
+      "value": "https://king.gemgame.bet"
+    },
+    {
+      "label": "bee_线上官网包",
+      "value": "https://dist.gemgame.fun"
+    },
+    {
+      "label": "bee_线上生产包",
+      "value": "https://king.gemgame.bet"
+    }
+  ],
+  "语言": [
+    {
+      "label": "英语",
+      "value": "en"
+    },
+    {
+      "label": "简体中文",
+      "value": "zh"
+    },
+    {
+      "label": "繁体中文",
+      "value": "tc"
+    },
+    {
+      "label": "印尼语",
+      "value": "id"
+    },
+    {
+      "label": "葡萄牙语",
+      "value": "pt"
+    },
+    {
+      "label": "西班牙语",
+      "value": "es"
+    },
+    {
+      "label": "土耳其语",
+      "value": "tr"
+    },
+    {
+      "label": "泰语",
+      "value": "th"
+    },
+    {
+      "label": "越南语",
+      "value": "vi"
+    },
+    {
+      "label": "菲律宾",
+      "value": "php"
+    }
+  ],
+  "货币": [
+    {
+      "label": "vind",
+      "value": "vind"
+    },
+    {
+      "label": "idrk",
+      "value": "idrk"
+    },
+    {
+      "label": "vndk",
+      "value": "vndk"
+    },
+    {
+      "label": "usd",
+      "value": "usd"
+    },
+    {
+      "label": "eur",
+      "value": "eur"
+    },
+    {
+      "label": "idr",
+      "value": "idr"
+    },
+    {
+      "label": "brl",
+      "value": "brl"
+    },
+    {
+      "label": "twd",
+      "value": "twd"
+    },
+    {
+      "label": "thb",
+      "value": "thb"
+    },
+    {
+      "label": "cny",
+      "value": "cny"
+    },
+    {
+      "label": "php",
+      "value": "php"
+    }
+  ],
+  "引擎": [
+    {
+      "label": "All",
+      "value": ""
+    },
+    {
+      "label": "PixiJs",
+      "value": "pixi"
+    },
+    {
+      "label": "Cocos",
+      "value": "cocos"
+    }
+  ],
+  "类型": [
+    {
+      "label": "All",
+      "value": ""
+    },
+    {
+      "label": "Slots",
+      "value": "slots"
+    },
+    {
+      "label": "SmallGame",
+      "value": "smallgame"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ],
+  "开发者": [
+    {
+      "label": "All",
+      "value": ""
+    },
+    {
+      "label": "Arthur",
+      "value": "arthur"
+    },
+    {
+      "label": "Bear",
+      "value": "bear"
+    },
+    {
+      "label": "David",
+      "value": "david"
+    },
+    {
+      "label": "Eden",
+      "value": "eden"
+    },
+    {
+      "label": "Jack",
+      "value": "jack"
+    },
+    {
+      "label": "Kaikai",
+      "value": "kaikai"
+    },
+    {
+      "label": "Lambo",
+      "value": "lambo"
+    },
+    {
+      "label": "Panda",
+      "value": "panda"
+    },
+    {
+      "label": "Rey",
+      "value": "rey"
+    },
+    {
+      "label": "Unknown",
+      "value": "unknown"
+    }
+  ]
+}

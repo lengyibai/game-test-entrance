@@ -1,0 +1,571 @@
+{
+  "label": "DERPLAY",
+  "value": "derplay",
+  "gameList": [
+    {
+      "label": "财富蛇",
+      "value": "fortunesnake",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "rey"
+    },
+    {
+      "label": "血族传说",
+      "value": "bloodlinelegend",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "lambo"
+    },
+    {
+      "label": "糖果嘉年华",
+      "value": "candyfiesta1000",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "lambo"
+    },
+    {
+      "label": "黑悟空",
+      "value": "blackwukongfunfast",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "rey"
+    },
+    {
+      "label": "钱来了",
+      "value": "moneycoming",
+      "engine": "pixi",
+      "type": "slots",
+      "developer": "lambo"
+    },
+    {
+      "label": "财富基诺",
+      "value": "richeskeno",
+      "engine": "pixi",
+      "type": "smallgame",
+      "developer": "lambo"
+    },
+    {
+      "label": "经典骰子",
+      "value": "classicdice",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "arthur"
+    },
+    {
+      "label": "果缤纷777",
+      "value": "luckyseven",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "极限骰子",
+      "value": "extremeroll",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "arthur"
+    },
+    {
+      "label": "钉板游戏",
+      "value": "plinkogame",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "panda"
+    },
+    {
+      "label": "宝石旋转",
+      "value": "gemspin",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "jack"
+    },
+    {
+      "label": "梦幻弹珠",
+      "value": "plinko",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "panda"
+    },
+    {
+      "label": "密码骰宝",
+      "value": "hashdice",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "bear"
+    },
+    {
+      "label": "彩色转盘",
+      "value": "colorspin",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "jack"
+    },
+    {
+      "label": "骰子",
+      "value": "vavedice",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "panda"
+    },
+    {
+      "label": "翻金币",
+      "value": "vavecoin",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "宙斯",
+      "value": "zeuswrathslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "水牛",
+      "value": "buffaloslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "公路",
+      "value": "fastandfuriousslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "火山",
+      "value": "lavacashslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "拉斯维加斯",
+      "value": "lasvegasslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "春节",
+      "value": "springfestivalslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "猩猩王",
+      "value": "gorillaslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "丛林",
+      "value": "jungleslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "黑豹",
+      "value": "leopardslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "足球",
+      "value": "footballslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "宝石狂热",
+      "value": "diamondfever",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "财富牛",
+      "value": "fortuneox",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "幸运兔",
+      "value": "fortunerabbit",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "幸运老虎",
+      "value": "fortunetiger",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "幸运老鼠",
+      "value": "fortunemouse",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "bingo",
+      "value": "bingo",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "panda"
+    },
+    {
+      "label": "飞机",
+      "value": "aviator",
+      "engine": "cocos",
+      "type": "hundred",
+      "developer": "unknown"
+    },
+    {
+      "label": "地雷",
+      "value": "mine",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "经典777",
+      "value": "fruitslots",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "bingo足球",
+      "value": "bingosoccer",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "panda"
+    },
+    {
+      "label": "stg金币",
+      "value": "stgcoin",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "david"
+    },
+    {
+      "label": "stg幸运老虎",
+      "value": "stgfortunetiger",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "unknown"
+    },
+    {
+      "label": "stg牛运亨通",
+      "value": "stgfortuneox",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "stg幸运兔",
+      "value": "stgfortunerabbit",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "stg老鼠",
+      "value": "stgfortunemouse",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "stg扫雷",
+      "value": "smallgamemine",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "stgbingo",
+      "value": "smallgamebingostar",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "arthur"
+    },
+    {
+      "label": "stg梦幻弹珠",
+      "value": "smallgamevaveplinko",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "stg骰子",
+      "value": "stgvavedice",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "stg密码骰宝",
+      "value": "stghashdice",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "stg彩色转盘",
+      "value": "heartqueen",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "arthur"
+    },
+    {
+      "label": "stg经典骰子",
+      "value": "stgclassicdice",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "stg宝石旋转",
+      "value": "stggemspin",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "jack"
+    },
+    {
+      "label": "stg杰克船长",
+      "value": "captainjack",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "jack"
+    },
+    {
+      "label": "stg神秘埃及",
+      "value": "egyptmystery",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "panda"
+    },
+    {
+      "label": "stg糖果冲击1000",
+      "value": "stgsugarrush1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "stg爱丽丝",
+      "value": "stgalice",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "stg冰雪恋歌",
+      "value": "frozenlovesong",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "stg蜜蜂总动员",
+      "value": "beefrenzy",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "stg亚特兰蒂斯",
+      "value": "stgatlantis",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "jack"
+    },
+    {
+      "label": "stg表情游戏",
+      "value": "gememoji",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "stg三个金币",
+      "value": "throwingcoins",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "jack"
+    },
+    {
+      "label": "stg糖果粉碎",
+      "value": "candycrush",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "迷幻轮盘",
+      "value": "magicroulette",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "panda"
+    },
+    {
+      "label": "STG迷幻轮盘",
+      "value": "magicroulette_st",
+      "engine": "cocos",
+      "type": "smallgame",
+      "developer": "unknown"
+    },
+    {
+      "label": "夜市2",
+      "value": "nightmarket2",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "kaikai"
+    },
+    {
+      "label": "夜市",
+      "value": "nightmarket",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "kaikai"
+    },
+    {
+      "label": "宙斯消除",
+      "value": "zeusfunfast",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "宙斯消除1000",
+      "value": "zeusfunfast1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "星光公主",
+      "value": "starlightprincess",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "星光公主1000",
+      "value": "starlightprincess1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "赏金大对决",
+      "value": "wildbounty",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "jack"
+    },
+    {
+      "label": "甜入心扉",
+      "value": "sweetbonanzafunfast",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "甜入心扉1000",
+      "value": "sweetbonanzafunfast1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "幸运猫",
+      "value": "luckyneko",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "jack"
+    },
+    {
+      "label": "阿兹特可宝藏",
+      "value": "treasuresofaztec",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "panda"
+    },
+    {
+      "label": "糖果冲击1000",
+      "value": "sugarrush1000",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "糖果冲击",
+      "value": "sugarrush",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "bear"
+    },
+    {
+      "label": "财富连连",
+      "value": "risingfortunes",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "超级王牌横板普通版",
+      "value": "gemsuperacelite",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "超级王牌横版豪华版",
+      "value": "gemsuperace",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "无尽宝藏",
+      "value": "endlesstreasure",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "david"
+    },
+    {
+      "label": "超级王牌竖板普通版",
+      "value": "superacelite",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    },
+    {
+      "label": "超级王牌竖版豪华版",
+      "value": "superace",
+      "engine": "cocos",
+      "type": "slots",
+      "developer": "arthur"
+    }
+  ],
+  "excludePackage": [
+    "本地官网包",
+    "线上官网包",
+    "线上生产包"
+  ]
+}
